@@ -4,5 +4,5 @@
 I develop application, draw Illustrations, make music, etc.  
 I am Japanese and speak Japanese and a little English.
 
-[Website](https://tsg0o0.com/) | [Onion Address](http://tsg4o4zjaknpkbefs2k47a7emkl54moz2t2k4py4gbyhz6v7vubsjbad.onion/)  
-[OpenPGP Key](https://tsg0o0.com/pgp/) | [Contact me](https://tsg0o0.com/contact/)
+[Website](https://cizzuk.net/) | [Onion Address](https://cizzuk444wnrlbgkcggpoktdeszfxfhabr2da3thbkk5royqr76qzwad.onion)  
+[OpenPGP Key](https://cizzuk.net/pgp/) | [Contact me](https://cizzuk.net/contact/)
