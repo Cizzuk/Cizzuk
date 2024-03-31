@@ -1,5 +1,4 @@
 # Cizzuk
-**a.k.a tsg0o0**
 
 I develop application, draw Illustrations, make music, etc.  
 I am Japanese and speak Japanese and a little English.
