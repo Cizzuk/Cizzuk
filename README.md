@@ -1,7 +1,7 @@
 # Cizzuk
 
-I develop application, draw Illustrations, make music, etc.  
-I am Japanese and speak Japanese and a little English.
+I love cats and donuts   
+I am Japanese and speak Japanese and a little English
 
-[Website](https://cizzuk.net/) | [Onion Address](https://cizzuk444wnrlbgkcggpoktdeszfxfhabr2da3thbkk5royqr76qzwad.onion)  
-[OpenPGP Key](https://cizzuk.net/en/pgp/) | [Contact me](https://cizzuk.net/en/contact/)
+[Website](https://cizzuk.net/) | [Onion Address](https://cizzuk3nqztjrgov2yybzttfcqczil5ebx74clwtmwoeugr5cktiutad.onion)  
+[OpenPGP Key](https://cizzuk.net/en/pgp/) | [Contact](https://cizzuk.net/en/contact/)
