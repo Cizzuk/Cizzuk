@@ -1,6 +1,6 @@
 # Cizzuk
 
-Hello, I am Cizzuk, pronounced [ɕizɯkɯ].  
+Hello, I am Cizzuk (pronounced Shizuku).  
 I enjoy creating things like apps and others.  
 I am a native Japanese speaker and a beginner in English.
 
